@@ -1,4 +1,4 @@
-# BAN5753MiniProject2TeamDDKM
+# BAN5753_Spark_Team_10
 Data and Reports for Mini Project 2
 
 Executive Summary
